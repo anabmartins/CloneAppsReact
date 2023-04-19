@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
   botao1: {
-    backgroundColor: 'green',
+    backgroundColor: '#78c802',
     borderRadius: 10,
     padding: 10,
     marginBottom: 10,
@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   botaoTexto2: {
-    color: 'green',
+    color: '#78c802',
     fontWeight: 'bold',
   },
   frase: {
