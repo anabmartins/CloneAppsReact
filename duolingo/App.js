@@ -46,6 +46,7 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     padding: 10,
     marginBottom: 10,
+    textAlign: 'center',
   },
    botao2: {
      backgroundColor: '#fff',
@@ -67,6 +68,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
     textAlign: 'center',
+    color: 'grey',
   },
 });
 
