@@ -39,20 +39,22 @@ const styles = StyleSheet.create({
     resizeMode: 'contain',
   },
   botaoContainer: {
-    marginTop: 20,
+    marginTop: 70,
   },
   botao1: {
     backgroundColor: '#78c802',
     borderRadius: 10,
     padding: 10,
     marginBottom: 10,
+    borderBottomWidth: 3,
+    borderColor: '#579101',
     textAlign: 'center',
   },
    botao2: {
      backgroundColor: '#fff',
     borderRadius: 10,
-    borderWidth: 1,
-    borderColor: 'gray',
+    borderBottomWidth: 3,
+    borderColor: '#a6a6a6',
     padding: 10,
   },
   botaoTexto: {
@@ -68,7 +70,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
     textAlign: 'center',
-    color: 'grey',
+    color: '#a6a6a6',
   },
 });
 
